@@ -2,6 +2,8 @@
 
 https://twitter.com/robzolkos/status/1687863191794249730
 
+- [Setup] (https://github.com/robzolkos/testperformance/blob/main/test/application_system_test_case.rb)
+
 Benefits of running system test using rack_test - can run non-javascript tests using same capybara actions as you're used to. Speed is the same as running controller tests.
 
 ### Running System test using `rack_test`
